@@ -51,7 +51,7 @@ const Header = () => {
                     </a>
                 </div>
            </div>
-           <div className="dropdown">
+           <div className="dropdown drop">
                 <h4>More</h4>
                 <div className="dropdown-content li2">
                     <a href="#">
